@@ -1,4 +1,4 @@
-# Superchain Token List
+## Superchain Token List
 
 The Superchain token list is a list of tokens managed by the maintainers of this repo that have been deployed on Superchains including the OP Mainnet and Base. It serves as a source of truth for services such as the [Optimism bridge UI](https://app.optimism.io/bridge).
 
